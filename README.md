@@ -6,7 +6,7 @@
 * Very Easy - 1378. Replace Employee ID With The Unique Identifier
 * Very Easy - 1068. Product Sales Analysis I
 * Easy - 1581. Customer Who Visited but Did Not Make Any Transactions
-* Easy - 
+* Easy - 197. Rising Temperature
 
 ## Concepts / Syntax
 ### `LEFT JOIN`
