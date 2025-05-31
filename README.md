@@ -23,7 +23,7 @@
 
 ### `DATEDIFF`, `DATE_ADD`, `DATE_SUB`
 (put images here)
+
 #### Problems with dates
 * Easy - 197. Rising Temperature
-
 
