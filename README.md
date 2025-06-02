@@ -12,6 +12,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 1661. Average Time of Process per Machine
 * Easy - 577. Employee Bonus
 * Easy (Should be medium) - 1280. Students and Examinations
+* Medium - 570. Managers with at Least 5 Direct Reports
 
 ## Concepts / Syntax
 ### `LEFT JOIN`
@@ -28,18 +29,22 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 #### Problems with `SELF JOIN`
 * Easy - 197. Rising Temperature
 * Easy - 1661. Average Time of Process per Machine
+* Medium - 570. Managers with at Least 5 Direct Reports
 
 ### `CROSS JOIN`
 (put images here)
 #### Problems with `CROSS JOIN`
 * Easy - 1280. Students and Examinations
 
-### `GROUP BY`
+### `GROUP BY` AND `HAVING`
 (put images here)
 #### Problems with `GROUP BY`
 * Easy - 1581. Customer Who Visited but Did Not Make Any Transactions
 * Easy - 1661. Average Time of Process per Machine
 * Easy - 1280. Students and Examinations
+* Medium - 570. Managers with at Least 5 Direct Reports
+
+
 
 ### `DATEDIFF`, `DATE_ADD`, `DATE_SUB`
 (put images here)
@@ -54,3 +59,9 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 #### `AVG()`
 
 #### `IF()`
+
+### `ORDER BY`
+Very easy concept to understand
+
+## Good visuisations to add on later
+https://leetcode.com/problems/students-and-examinations/solutions/5874925/real-explained-step-by-step-12-50-all-sql50
