@@ -4,6 +4,12 @@
 Solutions to these questions are organized in folders corresponding to LeetCode's respective sections. Each file within these folders contains the solution and, where applicable, a detailed explanation of the approach if the question is deemed complex.
 
 ## Table of Contents
+### Really good questions
+* Easy - 1251. Average Selling Price
+* Easy (Should be medium) - 1280. Students and Examinations
+* Medium - 570. Managers with at Least 5 Direct Reports
+* Medium - 1934. Confirmation Rate
+
 ### SQL 50: Baisc Join
 * Very Easy - 1378. Replace Employee ID With The Unique Identifier
 * Very Easy - 1068. Product Sales Analysis I
@@ -13,6 +19,11 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 577. Employee Bonus
 * Easy (Should be medium) - 1280. Students and Examinations
 * Medium - 570. Managers with at Least 5 Direct Reports
+* Medium - 1934. Confirmation Rate
+
+### SQL 50: Basic Aggregation Functions
+* Easy - 620. Not Boring Movies
+* Easy (Should be medium) - 1251. Average Selling Price
 
 ## Concepts / Syntax
 ### `LEFT JOIN`
@@ -57,8 +68,10 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 1280. Students and Examinations
 
 #### `AVG()`
+* Medium - 1934. Confirmation Rate
 
 #### `IF()`
+* Medium - 1934. Confirmation Rate
 
 ### `ORDER BY`
 Very easy concept to understand
