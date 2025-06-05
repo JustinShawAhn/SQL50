@@ -24,6 +24,8 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 ### SQL 50: Basic Aggregation Functions
 * Easy - 620. Not Boring Movies
 * Easy (Should be medium) - 1251. Average Selling Price
+* Easy - 1075. Project Employees I
+
 
 ## Concepts / Syntax
 ### `LEFT JOIN`
@@ -34,6 +36,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 1581. Customer Who Visited but Did Not Make Any Transactions
 * Easy - 577. Employee Bonus
 * Easy - 1280. Students and Examinations
+* Easy - 1251. Average Selling Price
 
 ### `SELF JOIN`
 (put images here)
@@ -54,6 +57,14 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 1661. Average Time of Process per Machine
 * Easy - 1280. Students and Examinations
 * Medium - 570. Managers with at Least 5 Direct Reports
+* Easy - 1251. Average Selling Price
+* Easy - 1075. Project Employees I
+
+### `BETWEEN`
+(explain here)
+#### Problems with `BETWEEN`
+* Easy - 1251. Average Selling Price
+
 
 
 
@@ -61,6 +72,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 (put images here)
 #### Problems with dates
 * Easy - 197. Rising Temperature
+* Easy - 1251. Average Selling Price
 
 ### Aggregation Operations
 #### `COUNT()`
@@ -69,9 +81,18 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 
 #### `AVG()`
 * Medium - 1934. Confirmation Rate
+* Easy - 1075. Project Employees I
 
 #### `IF()`
 * Medium - 1934. Confirmation Rate
+
+#### `IFNULL()`
+##### Syntax
+`IFNULL(expression, default_value)`
+* Easy - 1251. Average Selling Price
+
+#### `SUM()`
+* Easy - 1251. Average Selling Price
 
 ### `ORDER BY`
 Very easy concept to understand
