@@ -25,6 +25,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 620. Not Boring Movies
 * Easy (Should be medium) - 1251. Average Selling Price
 * Easy - 1075. Project Employees I
+* Easy - 1633. Percentage of Users Attended a Contest
 
 
 ## Concepts / Syntax
@@ -59,12 +60,17 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Medium - 570. Managers with at Least 5 Direct Reports
 * Easy - 1251. Average Selling Price
 * Easy - 1075. Project Employees I
+* Easy - 1633. Percentage of Users Attended a Contest
 
 ### `BETWEEN`
 (explain here)
 #### Problems with `BETWEEN`
 * Easy - 1251. Average Selling Price
 
+### `SUB QUERY`
+(explain here)
+#### Problems with `SUB QUERY`
+* Easy - 1633. Percentage of Users Attended a Contest
 
 
 
