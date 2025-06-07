@@ -9,6 +9,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy (Should be medium) - 1280. Students and Examinations
 * Medium - 570. Managers with at Least 5 Direct Reports
 * Medium - 1934. Confirmation Rate
+* Easy - 1211. Queries Quality and Percentage
 
 ### SQL 50: Baisc Join
 * Very Easy - 1378. Replace Employee ID With The Unique Identifier
@@ -26,6 +27,8 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy (Should be medium) - 1251. Average Selling Price
 * Easy - 1075. Project Employees I
 * Easy - 1633. Percentage of Users Attended a Contest
+* Easy - 1211. Queries Quality and Percentage
+
 
 
 ## Concepts / Syntax
@@ -61,6 +64,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 1251. Average Selling Price
 * Easy - 1075. Project Employees I
 * Easy - 1633. Percentage of Users Attended a Contest
+* Easy - 1211. Queries Quality and Percentage
 
 ### `BETWEEN`
 (explain here)
@@ -84,13 +88,16 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 #### `COUNT()`
 (put syntax)
 * Easy - 1280. Students and Examinations
+* Easy - 1211. Queries Quality and Percentage
 
 #### `AVG()`
 * Medium - 1934. Confirmation Rate
 * Easy - 1075. Project Employees I
+* Easy - 1211. Queries Quality and Percentage
 
 #### `IF()`
 * Medium - 1934. Confirmation Rate
+* Easy - 1211. Queries Quality and Percentage
 
 #### `IFNULL()`
 ##### Syntax
@@ -99,6 +106,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 
 #### `SUM()`
 * Easy - 1251. Average Selling Price
+* Easy - 1211. Queries Quality and Percentage
 
 ### `ORDER BY`
 Very easy concept to understand
