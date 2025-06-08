@@ -28,6 +28,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 1075. Project Employees I
 * Easy - 1633. Percentage of Users Attended a Contest
 * Easy - 1211. Queries Quality and Percentage
+* Medium - 1193. Monthly Transactions I
 
 
 
@@ -65,6 +66,10 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 1075. Project Employees I
 * Easy - 1633. Percentage of Users Attended a Contest
 * Easy - 1211. Queries Quality and Percentage
+* Medium - 1193. Monthly Transactions I
+
+#### Problems with `HAVING`
+
 
 ### `BETWEEN`
 (explain here)
@@ -78,17 +83,19 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 
 
 
-### `DATEDIFF`, `DATE_ADD`, `DATE_SUB`
+### `DATEDIFF`, `DATE_ADD`, `DATE_SUB`, `DATE_FORMAT`
 (put images here)
 #### Problems with dates
 * Easy - 197. Rising Temperature
 * Easy - 1251. Average Selling Price
+* Medium - 1193. Monthly Transactions I
 
 ### Aggregation Operations
 #### `COUNT()`
 (put syntax)
 * Easy - 1280. Students and Examinations
 * Easy - 1211. Queries Quality and Percentage
+* Medium - 1193. Monthly Transactions I
 
 #### `AVG()`
 * Medium - 1934. Confirmation Rate
@@ -98,6 +105,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 #### `IF()`
 * Medium - 1934. Confirmation Rate
 * Easy - 1211. Queries Quality and Percentage
+* Medium - 1193. Monthly Transactions I
 
 #### `IFNULL()`
 ##### Syntax
@@ -107,6 +115,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 #### `SUM()`
 * Easy - 1251. Average Selling Price
 * Easy - 1211. Queries Quality and Percentage
+* Medium - 1193. Monthly Transactions I
 
 ### `ORDER BY`
 Very easy concept to understand
