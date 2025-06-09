@@ -29,6 +29,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 1633. Percentage of Users Attended a Contest
 * Easy - 1211. Queries Quality and Percentage
 * Medium - 1193. Monthly Transactions I
+* Medium - 1174. Immediate Food Delivery II
 
 
 
@@ -55,6 +56,9 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 #### Problems with `CROSS JOIN`
 * Easy - 1280. Students and Examinations
 
+### `WHERE` AND `IN` (complicated)
+* Medium - 1174. Immediate Food Delivery II
+
 ### `GROUP BY` AND `HAVING`
 (put images here)
 #### Problems with `GROUP BY`
@@ -67,8 +71,10 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 1633. Percentage of Users Attended a Contest
 * Easy - 1211. Queries Quality and Percentage
 * Medium - 1193. Monthly Transactions I
+* Medium - 1174. Immediate Food Delivery II
 
 #### Problems with `HAVING`
+
 
 
 ### `BETWEEN`
@@ -80,6 +86,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 (explain here)
 #### Problems with `SUB QUERY`
 * Easy - 1633. Percentage of Users Attended a Contest
+* Medium - 1174. Immediate Food Delivery II
 
 
 
@@ -89,6 +96,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 197. Rising Temperature
 * Easy - 1251. Average Selling Price
 * Medium - 1193. Monthly Transactions I
+* Medium - 1174. Immediate Food Delivery II
 
 ### Aggregation Operations
 #### `COUNT()`
@@ -101,11 +109,13 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Medium - 1934. Confirmation Rate
 * Easy - 1075. Project Employees I
 * Easy - 1211. Queries Quality and Percentage
+* Medium - 1174. Immediate Food Delivery II
 
 #### `IF()`
 * Medium - 1934. Confirmation Rate
 * Easy - 1211. Queries Quality and Percentage
 * Medium - 1193. Monthly Transactions I
+* Medium - 1174. Immediate Food Delivery II
 
 #### `IFNULL()`
 ##### Syntax
@@ -116,6 +126,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 1251. Average Selling Price
 * Easy - 1211. Queries Quality and Percentage
 * Medium - 1193. Monthly Transactions I
+* Medium - 1174. Immediate Food Delivery II
 
 ### `ORDER BY`
 Very easy concept to understand
