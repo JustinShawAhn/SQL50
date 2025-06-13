@@ -31,6 +31,9 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Medium - 1193. Monthly Transactions I
 * Medium - 1174. Immediate Food Delivery II
 
+### SQL 50: Sorting and Grouping
+* Easy - 1141. User Activity for the Past 30 Days I
+
 
 
 ## Concepts / Syntax
@@ -72,6 +75,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 1211. Queries Quality and Percentage
 * Medium - 1193. Monthly Transactions I
 * Medium - 1174. Immediate Food Delivery II
+* Easy - 1141. User Activity for the Past 30 Days I
 
 #### Problems with `HAVING`
 
@@ -81,6 +85,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 (explain here)
 #### Problems with `BETWEEN`
 * Easy - 1251. Average Selling Price
+* Easy - 1141. User Activity for the Past 30 Days I
 
 ### `SUB QUERY`
 (explain here)
@@ -97,6 +102,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 1251. Average Selling Price
 * Medium - 1193. Monthly Transactions I
 * Medium - 1174. Immediate Food Delivery II
+* Easy - 1141. User Activity for the Past 30 Days I
 
 ### Aggregation Operations
 #### `COUNT()`
@@ -104,6 +110,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Easy - 1280. Students and Examinations
 * Easy - 1211. Queries Quality and Percentage
 * Medium - 1193. Monthly Transactions I
+* Easy - 1141. User Activity for the Past 30 Days I
 
 #### `AVG()`
 * Medium - 1934. Confirmation Rate
