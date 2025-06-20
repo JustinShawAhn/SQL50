@@ -33,7 +33,10 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 
 ### SQL 50: Sorting and Grouping
 * Easy - 1141. User Activity for the Past 30 Days I
-
+* Medium - 1070. Product Sales Analysis III
+* Very Easy - 596. Classes With at Least 5 Students
+* Do again - 619. Biggest Single Number
+* Do again - 1045. Customers Who Bought All Products
 
 
 ## Concepts / Syntax
@@ -61,6 +64,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 
 ### `WHERE` AND `IN` (complicated)
 * Medium - 1174. Immediate Food Delivery II
+* Medium - 1070. Product Sales Analysis III
 
 ### `GROUP BY` AND `HAVING`
 (put images here)
@@ -76,8 +80,10 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 * Medium - 1193. Monthly Transactions I
 * Medium - 1174. Immediate Food Delivery II
 * Easy - 1141. User Activity for the Past 30 Days I
+* Very Easy - 596. Classes With at Least 5 Students
 
 #### Problems with `HAVING`
+* Very Easy - 596. Classes With at Least 5 Students
 
 
 
@@ -92,6 +98,7 @@ Solutions to these questions are organized in folders corresponding to LeetCode'
 #### Problems with `SUB QUERY`
 * Easy - 1633. Percentage of Users Attended a Contest
 * Medium - 1174. Immediate Food Delivery II
+* Medium - 1070. Product Sales Analysis III
 
 
 
